@@ -13,5 +13,5 @@ if __name__ == "__main__":
     for next_url in current_url:
         to_send.append(next_url)
     
-    store(current_url)
-    send_to_master(to_send)
+    # store(current_url)
+    # send_to_master(to_send)
